@@ -1,0 +1,9 @@
+.float-right {
+  float: right !important;
+  clear: right !important;
+}
+
+#order_data .order_data_column .form-field.full-width{
+  width: 100%;
+  clear: both;
+}
